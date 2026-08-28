@@ -1,16 +1,28 @@
-## Hi there 👋
+# Andrey G.
 
-<!--
-**fnkg/fnkg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Engineer building internal tools and data-heavy interfaces
+with React, Next.js and TypeScript.
 
-Here are some ideas to get you started:
+At Chaika Clinics, I initiated and maintain an internal operations platform
+that turns workflows previously requiring manual PostgreSQL queries into
+guided UI flows. My production support background helps me design for real
+users, edge cases and production constraints.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Selected work
+
+- **Internal Operations Platform** — commercial Next.js, React and TypeScript
+  platform; sanitized case study in progress.
+- [Lich1257 Portfolio](https://github.com/fnkg/lich1257-portfolio) —
+  production portfolio built with Next.js, TypeScript, Three.js, Strapi
+  and PostgreSQL.
+- [OnlyFins Tracker](https://github.com/fnkg/tg-notion-fintrack) —
+  TypeScript Telegram/Notion integration with tests, Docker and CI.
+
+## Core stack
+
+React · Next.js · TypeScript · JavaScript · HTML/CSS · REST APIs · PostgreSQL
+
+Tbilisi, Georgia (UTC+4) · Open to remote Frontend Engineer roles
+
+[LinkedIn](https://www.linkedin.com/in/andrey-go) ·
+[Email](mailto:andreygovorunn@gmail.com)
