@@ -5,7 +5,7 @@ with React, Next.js and TypeScript.
 
 ## Selected work
 
-- **Internal Operations Platform** — commercial Next.js, React and TypeScript
+- [helper-public](https://github.com/fnkg/helper-public) — commercial Next.js, React and TypeScript
   platform; sanitized case study in progress.
 - [infra-public](https://github.com/fnkg/infra-public) - infrastructure as code for my projects.
 - **Lich1257 Portfolio** — production portfolio built with Next.js, TypeScript, Three.js, Strapi
